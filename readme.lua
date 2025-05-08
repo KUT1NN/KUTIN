@@ -1,0 +1,3 @@
+-- use command /createbet to open bet menu u can custom bet name and team A and team B
+-- use command /deletebet to deletebet when use when to delete (example:/deletebet 1) (number 1,2,3,4 it's mean the bet that you guy create. the firsh bet that you create it's mean number 1 )
+-- add_ace group.admin betting.admin allow (add this on server.cfg) (to use command createbet and deletebet )
